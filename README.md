@@ -1,4 +1,4 @@
-# weather_app_assignment
+# Weather Application v2
 
 A new Flutter project.
 
